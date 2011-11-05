@@ -20,11 +20,14 @@ Use node to remind you of Teletext.
 
     console.info(prettyMessage);
 
+![](https://raw.github.com/sjltaylor/technicolor/master/hello_darling.png)
+
 ## Possibilities
 
     var technicolor = require('technicolor');
     technicolor.showAll();
 
+![](https://raw.github.com/sjltaylor/technicolor/master/show_all.png)
 ## Supported Colours
 
 * black
